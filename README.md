@@ -14,8 +14,11 @@ DNA corpus using the Autoencoder and optimize it such that
 the compression ratio and computational time is acceptable
 or better than existing methods like GeCO2, GeCO3.
 
+
 ->Attached are the two Colab notebooks used, one for training the model and the other 
 used to test the model against a DNA sample.
+
 ->The dataset has also been split accordingly in the 'Dataset' folder.
+
 ->Both the huffman encoded files are available along with the reconstructed file for the 
 example DNA sample in their respective folders.

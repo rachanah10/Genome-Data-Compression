@@ -2,7 +2,7 @@
 
 With the Recent development of DNA sequencing
 technologies, Genome data compression plays an important tole
-to due to the huge volume of genomic data. . Such a big amount of
+to due to the huge volume of genomic data. Such a big amount of
 genome data needs appropriate data storage, data management,
 and data transfer policies. Compressing genomes can be used
 for efficient data storage, data management and data transfer
